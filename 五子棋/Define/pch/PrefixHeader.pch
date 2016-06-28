@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  五子棋
+//
+//  Created by Baymax on 16/5/19.
+//  Copyright © 2016年 Baymax. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+#import <Foundation/Foundation.h>
+
+#import "Constant.h"
+
+#import "MoveModel.h"
+
+
+#endif /* PrefixHeader_pch */
