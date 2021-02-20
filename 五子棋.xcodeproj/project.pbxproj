@@ -270,6 +270,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -436,7 +437,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "FiveInRow.Baymax.---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -456,7 +456,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "FiveInRow.Baymax.---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Release;
 		};
