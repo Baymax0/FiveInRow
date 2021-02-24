@@ -5,6 +5,6 @@
 - iOS 8.0+
 
 ## 启动界面
-![main](https://raw.githubusercontent.com/Baymax0/FiveInRow/master/resource/main.png)
+<img src="https://raw.githubusercontent.com/Baymax0/FiveInRow/master/resource/main.png" width="388"/>
 
 
