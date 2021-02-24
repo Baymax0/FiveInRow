@@ -5,6 +5,6 @@
 - iOS 8.0+
 
 ## 启动界面
-<img src="https://raw.githubusercontent.com/Baymax0/FiveInRow/master/resource/show.gif" width="188"/>
+<img src="https://raw.githubusercontent.com/Baymax0/FiveInRow/master/resource/show.gif" width="203"/>
 
 
